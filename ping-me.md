@@ -4,15 +4,10 @@ title: Ping Me
 permalink: /ping-me/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Please feel free to reach out to me, anytime!  The best email to ping me on is:  [robin@percy.pw](mailto:robin@percy.pw)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can follow me on Twitter:  [@rbin](https://twitter.com/rbin)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Add me on Linkedin here:  [https://www.linkedin.com/in/robinjohnson3/](https://www.linkedin.com/in/robinjohnson3/)
 
-
-[jekyll-organization]: https://github.com/jekyll
+See my GitHub profiles here:  [Rbin](http://github.com/rbin)  and  [Rbnpercy](http://github.com/rbnpercy)

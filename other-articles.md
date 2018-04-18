@@ -8,6 +8,11 @@ This is a list of past articles I've written for a variety of tech companies:
 
 &nbsp;
 
+[Building &amp; Authenticating a Crystal Web Application with JWTs](https://auth0.com/blog/building-your-first-crystal-app-with-jwt-authentication/)
+
+[An Introduction to Crystal Lang](https://auth0.com/blog/an-introduction-to-crystal-lang/)
+
+[Iris Recognition for Two Factor Authentication with Ruby on Rails](https://auth0.com/blog/iris-recognition-for-two-factor-authentication-with-ruby-on-rails/)
 
 [Security Checklist for Full Stack Web Developers — Part 1](https://blog.logrocket.com/security-for-fullstack-web-developers-part-1-a56340283f7c)
 
@@ -16,6 +21,20 @@ This is a list of past articles I've written for a variety of tech companies:
 [Security for Full Stack Web developers — Part 3](https://blog.logrocket.com/security-for-fullstack-web-developers-part-3-aaf81da57acb)
 
 [Comparing the most popular JavaScript Charting Libraries](https://blog.logrocket.com/comparing-the-most-popular-javascript-charting-libraries-f76fbe59ffd0)
+
+[10 Reasons I Love Being a Developer Evangelist (In Pictures)](https://sendgrid.com/blog/10-reasons-i-love-being-a-developer-evangelist-in-pictures/)
+
+[Introduction to Elixir Lang](https://sendgrid.com/blog/intro-elixir-lang/)
+
+[How I Value Open Source (Part 1)](https://sendgrid.com/blog/value-open-source-part-1/)
+
+[The Value of Open Source (Part 2)](https://sendgrid.com/blog/value-open-source-part-2/)
+
+[Build a Scheduled News Reader with Golang, Reddit and SendGrid](https://sendgrid.com/blog/build-scheduled-news-reader-golang-reddit-sendgrid/)
+
+[What is NoSQL? Four Things, Actually](https://sendgrid.com/blog/what-is-nosql/)
+
+[An Introduction to Golang](https://sendgrid.com/blog/intro-to-go-programming-language/)
 
 [What makes me a Developer Evangelist?](https://sendgrid.com/blog/robin-johnson-developer-evangelist/)
 
@@ -27,25 +46,11 @@ This is a list of past articles I've written for a variety of tech companies:
 
 [How to Survive as a Developer Evangelist](https://sendgrid.com/blog/survive-developer-evangelist/)
 
-[Build a Scheduled News Reader with Golang, Reddit and SendGrid](https://sendgrid.com/blog/build-scheduled-news-reader-golang-reddit-sendgrid/)
-
-[What is NoSQL? Four Things, Actually](https://sendgrid.com/blog/what-is-nosql/)
-
-[An Introduction to Golang](https://sendgrid.com/blog/intro-to-go-programming-language/)
-
 [Young Rewired State & Code on the Road](https://sendgrid.com/blog/young-rewired-state-code-road/)
-
-[How I Value Open Source (Part 1)](https://sendgrid.com/blog/value-open-source-part-1/)
-
-[The Value of Open Source (Part 2)](https://sendgrid.com/blog/value-open-source-part-2/)
 
 [The SendGrid Ambassador Programme](https://sendgrid.com/blog/sendgrid-ambassador-programme/)
 
-[Introduction to Elixir Lang](https://sendgrid.com/blog/intro-elixir-lang/)
-
 [Conference / Event Speaking as a Developer](https://sendgrid.com/blog/conferenceevent-speaking-as-a-developer/)
-
-[10 Reasons I Love Being a Developer Evangelist (In Pictures)](https://sendgrid.com/blog/10-reasons-i-love-being-a-developer-evangelist-in-pictures/)
 
 [The SendGrid Internal Hackathon](https://sendgrid.com/blog/the-sendgrid-internal-hackathon/)
 
