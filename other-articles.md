@@ -8,6 +8,10 @@ This is a list of past articles I've written for a variety of tech companies:
 
 &nbsp;
 
+[Building a Batch Image Uploader in Elixir, Phoenix, Ruby and Iron](https://blog.manifold.co/building-a-batch-image-uploader-in-elixir-phoenix-ruby-and-iron-b05946ebe053)
+
+[Building a Scheduled Newsletter in Ruby with IronWorker and Mailgun](https://blog.manifold.co/building-a-scheduled-newsletter-in-ruby-with-iron-io-and-mailgun-d20d91676463)
+
 [Building &amp; Authenticating a Crystal Web Application with JWTs](https://auth0.com/blog/building-your-first-crystal-app-with-jwt-authentication/)
 
 [An Introduction to Crystal Lang](https://auth0.com/blog/an-introduction-to-crystal-lang/)
