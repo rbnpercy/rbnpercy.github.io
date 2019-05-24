@@ -24,4 +24,4 @@ For technology topics, my specialities are APIs, Crypto, AI, Security, Databases
 
 In November 2018, I had a serious accident leading to the unfortunate loss of my right leg.  As a lifetime Rugby player and mountain climber, being active has **always** been an important factor of my life.  Due to my disability, I can no longer travel the amounts required to stay on as a Developer Evangelist, so I require a (preferably) remote role in Developer Education.  (Technical writing, Documentation development, Workshop hosting etc.)
 
-I have worked every day since I was 16 years old, and I will not let my disability change that.  Working is my life passion.
+I have worked every day since I was 16 years old, and I will not let my disability change that.  Working is my life passion. 
