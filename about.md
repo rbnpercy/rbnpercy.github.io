@@ -20,6 +20,10 @@ At the back-end of 2015, I left SendGrid to found another startup.  This time, i
 
 From August 2016, I have been freelance Technical Writing for a multitude of tech companies.  Technical Writing was always my favourite form of sharing and the best part of my job.  I take **great** pleasure in exploring new technologies, hacking together sample applications and documenting exactly how I did so.  Technical blogs / tutorials are *my* preferred way of learning about a new piece of tech, and producing those tutorials for other Developers is my passion.  Writing API documentation is also another firm favourite of mine.
 
+As a freelance Technical Writer I have authored content for some of the leading, and most interesting Tech & API providers around the world including:
+
+**SendGrid, Couchbase, Twilio, LogRocket, Clarifai, Ponyfoo, Bancor, Kik and Auth0.**
+
 For technology topics, my specialities are APIs, Crypto, AI, Security, Databases, Distributed Systems, Erlang/Elixir, Golang, Ruby/Rails, and Crystal Lang.
 
 In November 2018, I had a serious accident leading to the unfortunate loss of my right leg.  As a lifetime Rugby player and mountain climber, being active has **always** been an important part of my life.  Due to my disability, I can no longer travel the amounts required to stay on as a Developer Evangelist, so I now require a (preferably) remote role in Developer Education.  (Technical writing, Documentation development, Workshop hosting etc.)
