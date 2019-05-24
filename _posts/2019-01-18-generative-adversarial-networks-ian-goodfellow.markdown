@@ -1,7 +1,7 @@
 ---
 title: "Generative Adversarial Networks - Ian Goodfellow"
 description: ""
-date: 2018-08-18 09:30
+date: 2019-02-18 09:30
 tags:
 - generative-adversarial-networks
 - adversarial-machine-learning
@@ -62,7 +62,7 @@ One of the big explosions in research topics in recent times, is security and pr
 
 Bad agents can use Adversarial attacks to reprogramme neural net functionality by introducing peturbations (adversarial data), in the form of transformations to input data.
 
-![]/assets/img/(panda-to-gibbon-gan-security.png) 
+![]/assets/img/(panda-to-gibbon-gan-security.png)
 
 In the above image, an attacker has taken the image of the panda, and added a carefully calculated vector to the image, scaled down enough so *we* can't actually see the change to the image on the right.  However, the image has gone from being identified at **70%** as a Panda, to **99.9%** as a Gibbon.  In this attack, not only has the bad actor tricked the model about the image content, the model is also now even more confident about the image contents.
 
@@ -101,7 +101,7 @@ As far as Adversarial ML goes, it is another impressive step forward in Machine 
 
 As a final note, as in the talk video, I'd just like to end with an image generator using GANs:
 
-![](/assets/img/gan-cat.jpg) 
+![](/assets/img/gan-cat.jpg)
 
 Generated from a dataset of cat pictures from the web, GANs have created a fantastically realistic image here.  Worth noting is the nonsensical text appearing on the image, generated from the amount of cat images containing meme text.  Overall, as Goodfellow demonstrates in his talk, I believe GANs have a **very** bright future.
 
